@@ -1,0 +1,15 @@
+{
+  "name": "rummy-score-keeper",
+  "version": "1.0.0",
+  "description": "Score keeping application for Rummy card game with points format",
+  "main": "index.js",
+  "author": "Mithunish Prabhakaran",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "dependencies": {
+    "typescript": "^3.9.6"
+  }
+}
